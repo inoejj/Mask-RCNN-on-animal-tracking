@@ -7,7 +7,7 @@ Masked RCNN applied on [CD1 white mouse](https://www.criver.com/sites/default/fi
 ![](/images/maskedrcnn_mice.gif)	
 
 
-## Workflow
+## Getting started
 
 There are multiple ways to do this. Below is one of it.
 
