@@ -1,4 +1,4 @@
-# Masked-RCNN-on-animal-tracking
+# Mask-RCNN-on-animal-tracking
 
 This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow. It is based on Feature Pyramid Network (FPN) and a ResNet101 backbone. 
 
