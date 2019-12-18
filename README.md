@@ -18,3 +18,7 @@ There are multiple ways to do this. Below is one of it.
 3. Convert coco.json to tf_record by using create_coco_tf_record
 
 4. Run [RCNN](https://github.com/matterport/Mask_RCNN) training by running model_main.py
+
+# Resources
+
+- [Training your own data](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
