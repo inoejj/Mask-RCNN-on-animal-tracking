@@ -19,6 +19,22 @@ There are multiple ways to do this. Below is one of it.
 
 4. Run [RCNN](https://github.com/matterport/Mask_RCNN) training by running model_main.py
 
+# Dependencies
+
+- numpy
+- scipy
+- Pillow
+- cython
+- matplotlib
+- scikit-image
+- tensorflow>=1.3.0
+- keras>=2.0.8
+- opencv-python
+- h5py
+- imgaug
+- IPython
+
+
 # Resources
 
 - [Training your own data](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
