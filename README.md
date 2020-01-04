@@ -5,7 +5,7 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 Masked RCNN applied on [CD1 white mouse](https://www.criver.com/sites/default/files/resources/CD-1IGSMouseModelInformationSheet.pdf) and [C57 black mouse](https://www.jax.org/strain/000664)
 
 ![](/images/maskedrcnn_mice.gif)	
-
+![](/images/maskrcnnmice.gif)	
 
 ## Getting started
 
